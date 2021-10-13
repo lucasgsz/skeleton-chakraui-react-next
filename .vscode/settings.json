@@ -1,0 +1,11 @@
+{
+  "files.exclude": {
+    ".vscode/": false,
+    "**/.*": true,
+    "**/*.js": true,
+    "**/*.json": true,
+    "**/*.map": true,
+    "**/*.md": true,
+    "node_modules/": true
+  }
+}
